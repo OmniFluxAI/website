@@ -1,0 +1,1754 @@
+{
+  "name": "web",
+  "hash": "358dcff21f9a302e",
+  "publicPath": "/",
+  "outputPath": "/Users/kevin/Omni_code/OmniWebsite/OmniFluxAI/dist",
+  "assetsByChunkName": {
+    "page": [
+      "static/js/async/page.cc26f7d0.js"
+    ],
+    "products/page": [
+      "static/js/async/products/page.8aa212b8.js"
+    ],
+    "about/page": [
+      "static/js/async/about/page.2e4eed06.js"
+    ],
+    "builder-runtime": [
+      "static/js/builder-runtime.8a751114.js"
+    ],
+    "blog/page": [
+      "static/js/async/blog/page.c82e2a1a.js"
+    ],
+    "privacy/page": [
+      "static/js/async/privacy/page.bbe05bf1.js"
+    ],
+    "(lang$)/products/(slug)/page": [
+      "static/js/async/(lang$)/products/(slug)/page.6fd3ef0d.js"
+    ],
+    "terms/page": [
+      "static/js/async/terms/page.419f484c.js"
+    ],
+    "blog/(slug)/page": [
+      "static/js/async/blog/(slug)/page.d929d8a9.js"
+    ],
+    "(lang$)/terms/page": [
+      "static/js/async/(lang$)/terms/page.cf8b53f1.js"
+    ],
+    "products/(slug)/page": [
+      "static/js/async/products/(slug)/page.eb225e1f.js"
+    ],
+    "(lang$)/products/page": [
+      "static/js/async/(lang$)/products/page.7edb5209.js"
+    ],
+    "(lang$)/privacy/page": [
+      "static/js/async/(lang$)/privacy/page.a2eae9e2.js"
+    ],
+    "(lang$)/blog/page": [
+      "static/js/async/(lang$)/blog/page.9bf0ecd4.js"
+    ],
+    "lib-react": [
+      "static/js/lib-react.5365cdb3.js"
+    ],
+    "index": [
+      "static/css/index.041aff4f.css",
+      "static/js/index.1ccf8665.js"
+    ],
+    "(lang$)/about/page": [
+      "static/js/async/(lang$)/about/page.1c66b9cf.js"
+    ],
+    "(lang$)/blog/(slug)/page": [
+      "static/js/async/(lang$)/blog/(slug)/page.2dca9c35.js"
+    ],
+    "(lang$)/page": [
+      "static/js/async/(lang$)/page.80b5371e.js"
+    ],
+    "lib-router": [
+      "static/js/lib-router.9b9481d7.js"
+    ],
+    "$": [
+      "static/js/async/$.51d7c518.js"
+    ],
+    "lib-polyfill": [
+      "static/js/lib-polyfill.1d8bac37.js"
+    ]
+  },
+  "assets": [
+    {
+      "type": "asset",
+      "name": "static/js/async/906.77938c09.js",
+      "size": 298856,
+      "emitted": false,
+      "info": {
+        "minimized": true,
+        "immutable": true,
+        "javascriptModule": false,
+        "chunkhash": [],
+        "contenthash": [
+          "77938c09"
+        ],
+        "fullhash": [],
+        "related": {}
+      },
+      "cached": true,
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "chunks": [
+        "906"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "static/js/859.044179cf.js",
+      "size": 274239,
+      "emitted": false,
+      "info": {
+        "minimized": true,
+        "immutable": true,
+        "javascriptModule": false,
+        "chunkhash": [],
+        "contenthash": [
+          "044179cf"
+        ],
+        "fullhash": [],
+        "related": {}
+      },
+      "cached": true,
+      "chunkNames": [],
+      "chunkIdHints": [
+        "vendors"
+      ],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "chunks": [
+        "859"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "static/js/index.1ccf8665.js",
+      "size": 265739,
+      "emitted": false,
+      "info": {
+        "minimized": true,
+        "immutable": true,
+        "javascriptModule": false,
+        "chunkhash": [],
+        "contenthash": [
+          "1ccf8665"
+        ],
+        "fullhash": [],
+        "related": {}
+      },
+      "cached": true,
+      "chunkNames": [
+        "index"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "chunks": [
+        "980"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "static/js/lib-polyfill.1d8bac37.js",
+      "size": 152387,
+      "emitted": false,
+      "info": {
+        "minimized": true,
+        "immutable": true,
+        "javascriptModule": false,
+        "chunkhash": [],
+        "contenthash": [
+          "1d8bac37"
+        ],
+        "fullhash": [],
+        "related": {}
+      },
+      "cached": true,
+      "chunkNames": [
+        "lib-polyfill"
+      ],
+      "chunkIdHints": [
+        "lib-polyfill"
+      ],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "chunks": [
+        "126"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "static/js/lib-react.5365cdb3.js",
+      "size": 140003,
+      "emitted": false,
+      "info": {
+        "minimized": true,
+        "immutable": true,
+        "javascriptModule": false,
+        "chunkhash": [],
+        "contenthash": [
+          "5365cdb3"
+        ],
+        "fullhash": [],
+        "related": {}
+      },
+      "cached": true,
+      "chunkNames": [
+        "lib-react"
+      ],
+      "chunkIdHints": [
+        "react"
+      ],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "chunks": [
+        "361"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "static/css/index.041aff4f.css",
+      "size": 73758,
+      "emitted": false,
+      "info": {
+        "minimized": true,
+        "immutable": true,
+        "chunkhash": [],
+        "contenthash": [
+          "041aff4f"
+        ],
+        "fullhash": [],
+        "related": {}
+      },
+      "cached": true,
+      "chunkNames": [
+        "index"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "chunks": [
+        "980"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "static/js/lib-router.9b9481d7.js",
+      "size": 64435,
+      "emitted": false,
+      "info": {
+        "minimized": true,
+        "immutable": true,
+        "javascriptModule": false,
+        "chunkhash": [],
+        "contenthash": [
+          "9b9481d7"
+        ],
+        "fullhash": [],
+        "related": {}
+      },
+      "cached": true,
+      "chunkNames": [
+        "lib-router"
+      ],
+      "chunkIdHints": [
+        "router"
+      ],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "chunks": [
+        "118"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "static/js/async/page.cc26f7d0.js",
+      "size": 53797,
+      "emitted": false,
+      "info": {
+        "minimized": true,
+        "immutable": true,
+        "javascriptModule": false,
+        "chunkhash": [],
+        "contenthash": [
+          "cc26f7d0"
+        ],
+        "fullhash": [],
+        "related": {}
+      },
+      "cached": true,
+      "chunkNames": [
+        "page"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "chunks": [
+        "484"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "static/js/async/products/(slug)/page.eb225e1f.js",
+      "size": 22182,
+      "emitted": false,
+      "info": {
+        "minimized": true,
+        "immutable": true,
+        "javascriptModule": false,
+        "chunkhash": [],
+        "contenthash": [
+          "eb225e1f"
+        ],
+        "fullhash": [],
+        "related": {}
+      },
+      "cached": true,
+      "chunkNames": [
+        "products/(slug)/page"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "chunks": [
+        "581"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "static/js/async/about/page.2e4eed06.js",
+      "size": 15278,
+      "emitted": false,
+      "info": {
+        "minimized": true,
+        "immutable": true,
+        "javascriptModule": false,
+        "chunkhash": [],
+        "contenthash": [
+          "2e4eed06"
+        ],
+        "fullhash": [],
+        "related": {}
+      },
+      "cached": true,
+      "chunkNames": [
+        "about/page"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "chunks": [
+        "808"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "static/js/async/512.e59e8ac6.js",
+      "size": 12603,
+      "emitted": false,
+      "info": {
+        "minimized": true,
+        "immutable": true,
+        "javascriptModule": false,
+        "chunkhash": [],
+        "contenthash": [
+          "e59e8ac6"
+        ],
+        "fullhash": [],
+        "related": {}
+      },
+      "cached": true,
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "chunks": [
+        "512"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "static/js/async/223.175ea87b.js",
+      "size": 10422,
+      "emitted": false,
+      "info": {
+        "minimized": true,
+        "immutable": true,
+        "javascriptModule": false,
+        "chunkhash": [],
+        "contenthash": [
+          "175ea87b"
+        ],
+        "fullhash": [],
+        "related": {}
+      },
+      "cached": true,
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "chunks": [
+        "223"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "index.html",
+      "size": 9508,
+      "emitted": false,
+      "info": {
+        "chunkhash": [],
+        "contenthash": [],
+        "fullhash": [],
+        "related": {}
+      },
+      "cached": true,
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "chunks": [],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "static/js/async/297.6d6a27aa.js",
+      "size": 9158,
+      "emitted": false,
+      "info": {
+        "minimized": true,
+        "immutable": true,
+        "javascriptModule": false,
+        "chunkhash": [],
+        "contenthash": [
+          "6d6a27aa"
+        ],
+        "fullhash": [],
+        "related": {}
+      },
+      "cached": true,
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "chunks": [
+        "297"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "static/js/async/(lang$)/blog/(slug)/page.2dca9c35.js",
+      "size": 7572,
+      "emitted": false,
+      "info": {
+        "minimized": true,
+        "immutable": true,
+        "javascriptModule": false,
+        "chunkhash": [],
+        "contenthash": [
+          "2dca9c35"
+        ],
+        "fullhash": [],
+        "related": {}
+      },
+      "cached": true,
+      "chunkNames": [
+        "(lang$)/blog/(slug)/page"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "chunks": [
+        "591"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "static/js/async/blog/(slug)/page.d929d8a9.js",
+      "size": 7497,
+      "emitted": false,
+      "info": {
+        "minimized": true,
+        "immutable": true,
+        "javascriptModule": false,
+        "chunkhash": [],
+        "contenthash": [
+          "d929d8a9"
+        ],
+        "fullhash": [],
+        "related": {}
+      },
+      "cached": true,
+      "chunkNames": [
+        "blog/(slug)/page"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "chunks": [
+        "368"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "static/js/async/(lang$)/products/page.7edb5209.js",
+      "size": 6496,
+      "emitted": false,
+      "info": {
+        "minimized": true,
+        "immutable": true,
+        "javascriptModule": false,
+        "chunkhash": [],
+        "contenthash": [
+          "7edb5209"
+        ],
+        "fullhash": [],
+        "related": {}
+      },
+      "cached": true,
+      "chunkNames": [
+        "(lang$)/products/page"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "chunks": [
+        "729"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "static/js/async/products/page.8aa212b8.js",
+      "size": 6420,
+      "emitted": false,
+      "info": {
+        "minimized": true,
+        "immutable": true,
+        "javascriptModule": false,
+        "chunkhash": [],
+        "contenthash": [
+          "8aa212b8"
+        ],
+        "fullhash": [],
+        "related": {}
+      },
+      "cached": true,
+      "chunkNames": [
+        "products/page"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "chunks": [
+        "127"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "static/js/async/(lang$)/terms/page.cf8b53f1.js",
+      "size": 5719,
+      "emitted": false,
+      "info": {
+        "minimized": true,
+        "immutable": true,
+        "javascriptModule": false,
+        "chunkhash": [],
+        "contenthash": [
+          "cf8b53f1"
+        ],
+        "fullhash": [],
+        "related": {}
+      },
+      "cached": true,
+      "chunkNames": [
+        "(lang$)/terms/page"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "chunks": [
+        "192"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "static/js/async/(lang$)/privacy/page.a2eae9e2.js",
+      "size": 5658,
+      "emitted": false,
+      "info": {
+        "minimized": true,
+        "immutable": true,
+        "javascriptModule": false,
+        "chunkhash": [],
+        "contenthash": [
+          "a2eae9e2"
+        ],
+        "fullhash": [],
+        "related": {}
+      },
+      "cached": true,
+      "chunkNames": [
+        "(lang$)/privacy/page"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "chunks": [
+        "269"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "static/js/async/terms/page.419f484c.js",
+      "size": 5644,
+      "emitted": false,
+      "info": {
+        "minimized": true,
+        "immutable": true,
+        "javascriptModule": false,
+        "chunkhash": [],
+        "contenthash": [
+          "419f484c"
+        ],
+        "fullhash": [],
+        "related": {}
+      },
+      "cached": true,
+      "chunkNames": [
+        "terms/page"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "chunks": [
+        "543"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "static/js/async/privacy/page.bbe05bf1.js",
+      "size": 5582,
+      "emitted": false,
+      "info": {
+        "minimized": true,
+        "immutable": true,
+        "javascriptModule": false,
+        "chunkhash": [],
+        "contenthash": [
+          "bbe05bf1"
+        ],
+        "fullhash": [],
+        "related": {}
+      },
+      "cached": true,
+      "chunkNames": [
+        "privacy/page"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "chunks": [
+        "830"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "routes-manifest.json",
+      "size": 5148,
+      "emitted": false,
+      "info": {
+        "chunkhash": [],
+        "contenthash": [],
+        "fullhash": [],
+        "related": {}
+      },
+      "cached": true,
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "chunks": [],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "static/js/async/(lang$)/blog/page.9bf0ecd4.js",
+      "size": 5041,
+      "emitted": false,
+      "info": {
+        "minimized": true,
+        "immutable": true,
+        "javascriptModule": false,
+        "chunkhash": [],
+        "contenthash": [
+          "9bf0ecd4"
+        ],
+        "fullhash": [],
+        "related": {}
+      },
+      "cached": true,
+      "chunkNames": [
+        "(lang$)/blog/page"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "chunks": [
+        "518"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "static/js/async/blog/page.c82e2a1a.js",
+      "size": 4965,
+      "emitted": false,
+      "info": {
+        "minimized": true,
+        "immutable": true,
+        "javascriptModule": false,
+        "chunkhash": [],
+        "contenthash": [
+          "c82e2a1a"
+        ],
+        "fullhash": [],
+        "related": {}
+      },
+      "cached": true,
+      "chunkNames": [
+        "blog/page"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "chunks": [
+        "509"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "static/js/async/$.51d7c518.js",
+      "size": 4097,
+      "emitted": false,
+      "info": {
+        "minimized": true,
+        "immutable": true,
+        "javascriptModule": false,
+        "chunkhash": [],
+        "contenthash": [
+          "51d7c518"
+        ],
+        "fullhash": [],
+        "related": {}
+      },
+      "cached": true,
+      "chunkNames": [
+        "$"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "chunks": [
+        "392"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "static/js/lib-react.5365cdb3.js.LICENSE.txt",
+      "size": 970,
+      "emitted": false,
+      "info": {
+        "minimized": true,
+        "chunkhash": [],
+        "contenthash": [],
+        "fullhash": [],
+        "related": {}
+      },
+      "cached": true,
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "chunks": [],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "static/js/859.044179cf.js.LICENSE.txt",
+      "size": 854,
+      "emitted": false,
+      "info": {
+        "minimized": true,
+        "chunkhash": [],
+        "contenthash": [],
+        "fullhash": [],
+        "related": {}
+      },
+      "cached": true,
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "chunks": [],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "static/js/lib-router.9b9481d7.js.LICENSE.txt",
+      "size": 679,
+      "emitted": false,
+      "info": {
+        "minimized": true,
+        "chunkhash": [],
+        "contenthash": [],
+        "fullhash": [],
+        "related": {}
+      },
+      "cached": true,
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "chunks": [],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "favicon.svg",
+      "size": 584,
+      "emitted": false,
+      "info": {
+        "chunkhash": [],
+        "contenthash": [],
+        "fullhash": [],
+        "related": {}
+      },
+      "cached": true,
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "chunks": [],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "static/js/async/(lang$)/products/(slug)/page.6fd3ef0d.js",
+      "size": 177,
+      "emitted": false,
+      "info": {
+        "minimized": true,
+        "immutable": true,
+        "javascriptModule": false,
+        "chunkhash": [],
+        "contenthash": [
+          "6fd3ef0d"
+        ],
+        "fullhash": [],
+        "related": {}
+      },
+      "cached": true,
+      "chunkNames": [
+        "(lang$)/products/(slug)/page"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "chunks": [
+        "253"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "static/js/async/(lang$)/about/page.1c66b9cf.js",
+      "size": 176,
+      "emitted": false,
+      "info": {
+        "minimized": true,
+        "immutable": true,
+        "javascriptModule": false,
+        "chunkhash": [],
+        "contenthash": [
+          "1c66b9cf"
+        ],
+        "fullhash": [],
+        "related": {}
+      },
+      "cached": true,
+      "chunkNames": [
+        "(lang$)/about/page"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "chunks": [
+        "37"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "static/js/async/(lang$)/page.80b5371e.js",
+      "size": 176,
+      "emitted": false,
+      "info": {
+        "minimized": true,
+        "immutable": true,
+        "javascriptModule": false,
+        "chunkhash": [],
+        "contenthash": [
+          "80b5371e"
+        ],
+        "fullhash": [],
+        "related": {}
+      },
+      "cached": true,
+      "chunkNames": [
+        "(lang$)/page"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "chunks": [
+        "79"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "static/js/async/(lang$)/blog/(slug)/page.2dca9c35.js.LICENSE.txt",
+      "size": 172,
+      "emitted": false,
+      "info": {
+        "minimized": true,
+        "chunkhash": [],
+        "contenthash": [],
+        "fullhash": [],
+        "related": {}
+      },
+      "cached": true,
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "chunks": [],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "static/js/async/(lang$)/blog/page.9bf0ecd4.js.LICENSE.txt",
+      "size": 172,
+      "emitted": false,
+      "info": {
+        "minimized": true,
+        "chunkhash": [],
+        "contenthash": [],
+        "fullhash": [],
+        "related": {}
+      },
+      "cached": true,
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "chunks": [],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "static/js/async/223.175ea87b.js.LICENSE.txt",
+      "size": 172,
+      "emitted": false,
+      "info": {
+        "minimized": true,
+        "chunkhash": [],
+        "contenthash": [],
+        "fullhash": [],
+        "related": {}
+      },
+      "cached": true,
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "chunks": [],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "static/js/async/512.e59e8ac6.js.LICENSE.txt",
+      "size": 172,
+      "emitted": false,
+      "info": {
+        "minimized": true,
+        "chunkhash": [],
+        "contenthash": [],
+        "fullhash": [],
+        "related": {}
+      },
+      "cached": true,
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "chunks": [],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "static/js/async/blog/(slug)/page.d929d8a9.js.LICENSE.txt",
+      "size": 172,
+      "emitted": false,
+      "info": {
+        "minimized": true,
+        "chunkhash": [],
+        "contenthash": [],
+        "fullhash": [],
+        "related": {}
+      },
+      "cached": true,
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "chunks": [],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "static/js/async/blog/page.c82e2a1a.js.LICENSE.txt",
+      "size": 172,
+      "emitted": false,
+      "info": {
+        "minimized": true,
+        "chunkhash": [],
+        "contenthash": [],
+        "fullhash": [],
+        "related": {}
+      },
+      "cached": true,
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "chunks": [],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "static/js/async/page.cc26f7d0.js.LICENSE.txt",
+      "size": 172,
+      "emitted": false,
+      "info": {
+        "minimized": true,
+        "chunkhash": [],
+        "contenthash": [],
+        "fullhash": [],
+        "related": {}
+      },
+      "cached": true,
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "chunks": [],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "static/js/async/products/(slug)/page.eb225e1f.js.LICENSE.txt",
+      "size": 172,
+      "emitted": false,
+      "info": {
+        "minimized": true,
+        "chunkhash": [],
+        "contenthash": [],
+        "fullhash": [],
+        "related": {}
+      },
+      "cached": true,
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "chunks": [],
+      "auxiliaryChunks": []
+    }
+  ],
+  "chunks": [
+    {
+      "id": "118",
+      "files": [
+        "static/js/lib-router.9b9481d7.js"
+      ]
+    },
+    {
+      "id": "126",
+      "files": [
+        "static/js/lib-polyfill.1d8bac37.js"
+      ]
+    },
+    {
+      "id": "127",
+      "files": [
+        "static/js/async/products/page.8aa212b8.js"
+      ]
+    },
+    {
+      "id": "192",
+      "files": [
+        "static/js/async/(lang$)/terms/page.cf8b53f1.js"
+      ]
+    },
+    {
+      "id": "223",
+      "files": [
+        "static/js/async/223.175ea87b.js"
+      ]
+    },
+    {
+      "id": "242",
+      "files": [
+        "static/js/builder-runtime.8a751114.js"
+      ]
+    },
+    {
+      "id": "253",
+      "files": [
+        "static/js/async/(lang$)/products/(slug)/page.6fd3ef0d.js"
+      ]
+    },
+    {
+      "id": "269",
+      "files": [
+        "static/js/async/(lang$)/privacy/page.a2eae9e2.js"
+      ]
+    },
+    {
+      "id": "297",
+      "files": [
+        "static/js/async/297.6d6a27aa.js"
+      ]
+    },
+    {
+      "id": "361",
+      "files": [
+        "static/js/lib-react.5365cdb3.js"
+      ]
+    },
+    {
+      "id": "368",
+      "files": [
+        "static/js/async/blog/(slug)/page.d929d8a9.js"
+      ]
+    },
+    {
+      "id": "37",
+      "files": [
+        "static/js/async/(lang$)/about/page.1c66b9cf.js"
+      ]
+    },
+    {
+      "id": "392",
+      "files": [
+        "static/js/async/$.51d7c518.js"
+      ]
+    },
+    {
+      "id": "484",
+      "files": [
+        "static/js/async/page.cc26f7d0.js"
+      ]
+    },
+    {
+      "id": "509",
+      "files": [
+        "static/js/async/blog/page.c82e2a1a.js"
+      ]
+    },
+    {
+      "id": "512",
+      "files": [
+        "static/js/async/512.e59e8ac6.js"
+      ]
+    },
+    {
+      "id": "518",
+      "files": [
+        "static/js/async/(lang$)/blog/page.9bf0ecd4.js"
+      ]
+    },
+    {
+      "id": "543",
+      "files": [
+        "static/js/async/terms/page.419f484c.js"
+      ]
+    },
+    {
+      "id": "581",
+      "files": [
+        "static/js/async/products/(slug)/page.eb225e1f.js"
+      ]
+    },
+    {
+      "id": "591",
+      "files": [
+        "static/js/async/(lang$)/blog/(slug)/page.2dca9c35.js"
+      ]
+    },
+    {
+      "id": "729",
+      "files": [
+        "static/js/async/(lang$)/products/page.7edb5209.js"
+      ]
+    },
+    {
+      "id": "79",
+      "files": [
+        "static/js/async/(lang$)/page.80b5371e.js"
+      ]
+    },
+    {
+      "id": "808",
+      "files": [
+        "static/js/async/about/page.2e4eed06.js"
+      ]
+    },
+    {
+      "id": "830",
+      "files": [
+        "static/js/async/privacy/page.bbe05bf1.js"
+      ]
+    },
+    {
+      "id": "859",
+      "files": [
+        "static/js/859.044179cf.js"
+      ]
+    },
+    {
+      "id": "906",
+      "files": [
+        "static/js/async/906.77938c09.js"
+      ]
+    },
+    {
+      "id": "980",
+      "files": [
+        "static/css/index.041aff4f.css",
+        "static/js/index.1ccf8665.js"
+      ]
+    }
+  ],
+  "entrypoints": {
+    "index": {
+      "name": "index",
+      "chunks": [
+        "242",
+        "361",
+        "126",
+        "118",
+        "859",
+        "980"
+      ],
+      "assets": [
+        {
+          "name": "static/js/builder-runtime.8a751114.js",
+          "size": 0
+        },
+        {
+          "name": "static/js/lib-react.5365cdb3.js",
+          "size": 140003
+        },
+        {
+          "name": "static/js/lib-polyfill.1d8bac37.js",
+          "size": 152387
+        },
+        {
+          "name": "static/js/lib-router.9b9481d7.js",
+          "size": 64435
+        },
+        {
+          "name": "static/js/859.044179cf.js",
+          "size": 274239
+        },
+        {
+          "name": "static/css/index.041aff4f.css",
+          "size": 73758
+        },
+        {
+          "name": "static/js/index.1ccf8665.js",
+          "size": 265739
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 970561,
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "$": {
+      "name": "$",
+      "chunks": [
+        "392"
+      ],
+      "assets": [
+        {
+          "name": "static/js/async/$.51d7c518.js",
+          "size": 4097
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 4097,
+      "children": {},
+      "childAssets": {}
+    },
+    "(lang$)/about/page": {
+      "name": "(lang$)/about/page",
+      "chunks": [
+        "512",
+        "808",
+        "37"
+      ],
+      "assets": [
+        {
+          "name": "static/js/async/512.e59e8ac6.js",
+          "size": 12603
+        },
+        {
+          "name": "static/js/async/about/page.2e4eed06.js",
+          "size": 15278
+        },
+        {
+          "name": "static/js/async/(lang$)/about/page.1c66b9cf.js",
+          "size": 176
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 28057,
+      "children": {},
+      "childAssets": {}
+    },
+    "(lang$)/blog/(slug)/page": {
+      "name": "(lang$)/blog/(slug)/page",
+      "chunks": [
+        "906",
+        "591"
+      ],
+      "assets": [
+        {
+          "name": "static/js/async/906.77938c09.js",
+          "size": 298856
+        },
+        {
+          "name": "static/js/async/(lang$)/blog/(slug)/page.2dca9c35.js",
+          "size": 7572
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 306428,
+      "children": {},
+      "childAssets": {}
+    },
+    "(lang$)/blog/page": {
+      "name": "(lang$)/blog/page",
+      "chunks": [
+        "906",
+        "518"
+      ],
+      "assets": [
+        {
+          "name": "static/js/async/906.77938c09.js",
+          "size": 298856
+        },
+        {
+          "name": "static/js/async/(lang$)/blog/page.9bf0ecd4.js",
+          "size": 5041
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 303897,
+      "children": {},
+      "childAssets": {}
+    },
+    "(lang$)/page": {
+      "name": "(lang$)/page",
+      "chunks": [
+        "906",
+        "512",
+        "223",
+        "484",
+        "79"
+      ],
+      "assets": [
+        {
+          "name": "static/js/async/906.77938c09.js",
+          "size": 298856
+        },
+        {
+          "name": "static/js/async/512.e59e8ac6.js",
+          "size": 12603
+        },
+        {
+          "name": "static/js/async/223.175ea87b.js",
+          "size": 10422
+        },
+        {
+          "name": "static/js/async/page.cc26f7d0.js",
+          "size": 53797
+        },
+        {
+          "name": "static/js/async/(lang$)/page.80b5371e.js",
+          "size": 176
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 375854,
+      "children": {},
+      "childAssets": {}
+    },
+    "(lang$)/privacy/page": {
+      "name": "(lang$)/privacy/page",
+      "chunks": [
+        "297",
+        "269"
+      ],
+      "assets": [
+        {
+          "name": "static/js/async/297.6d6a27aa.js",
+          "size": 9158
+        },
+        {
+          "name": "static/js/async/(lang$)/privacy/page.a2eae9e2.js",
+          "size": 5658
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 14816,
+      "children": {},
+      "childAssets": {}
+    },
+    "(lang$)/products/(slug)/page": {
+      "name": "(lang$)/products/(slug)/page",
+      "chunks": [
+        "512",
+        "581",
+        "253"
+      ],
+      "assets": [
+        {
+          "name": "static/js/async/512.e59e8ac6.js",
+          "size": 12603
+        },
+        {
+          "name": "static/js/async/products/(slug)/page.eb225e1f.js",
+          "size": 22182
+        },
+        {
+          "name": "static/js/async/(lang$)/products/(slug)/page.6fd3ef0d.js",
+          "size": 177
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 34962,
+      "children": {},
+      "childAssets": {}
+    },
+    "(lang$)/products/page": {
+      "name": "(lang$)/products/page",
+      "chunks": [
+        "223",
+        "729"
+      ],
+      "assets": [
+        {
+          "name": "static/js/async/223.175ea87b.js",
+          "size": 10422
+        },
+        {
+          "name": "static/js/async/(lang$)/products/page.7edb5209.js",
+          "size": 6496
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 16918,
+      "children": {},
+      "childAssets": {}
+    },
+    "(lang$)/terms/page": {
+      "name": "(lang$)/terms/page",
+      "chunks": [
+        "297",
+        "192"
+      ],
+      "assets": [
+        {
+          "name": "static/js/async/297.6d6a27aa.js",
+          "size": 9158
+        },
+        {
+          "name": "static/js/async/(lang$)/terms/page.cf8b53f1.js",
+          "size": 5719
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 14877,
+      "children": {},
+      "childAssets": {}
+    },
+    "about/page": {
+      "name": "about/page",
+      "chunks": [
+        "512",
+        "808"
+      ],
+      "assets": [
+        {
+          "name": "static/js/async/512.e59e8ac6.js",
+          "size": 12603
+        },
+        {
+          "name": "static/js/async/about/page.2e4eed06.js",
+          "size": 15278
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 27881,
+      "children": {},
+      "childAssets": {}
+    },
+    "blog/(slug)/page": {
+      "name": "blog/(slug)/page",
+      "chunks": [
+        "906",
+        "368"
+      ],
+      "assets": [
+        {
+          "name": "static/js/async/906.77938c09.js",
+          "size": 298856
+        },
+        {
+          "name": "static/js/async/blog/(slug)/page.d929d8a9.js",
+          "size": 7497
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 306353,
+      "children": {},
+      "childAssets": {}
+    },
+    "blog/page": {
+      "name": "blog/page",
+      "chunks": [
+        "906",
+        "509"
+      ],
+      "assets": [
+        {
+          "name": "static/js/async/906.77938c09.js",
+          "size": 298856
+        },
+        {
+          "name": "static/js/async/blog/page.c82e2a1a.js",
+          "size": 4965
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 303821,
+      "children": {},
+      "childAssets": {}
+    },
+    "index": {
+      "name": "index",
+      "chunks": [
+        "242",
+        "361",
+        "126",
+        "118",
+        "859",
+        "980"
+      ],
+      "assets": [
+        {
+          "name": "static/js/builder-runtime.8a751114.js",
+          "size": 0
+        },
+        {
+          "name": "static/js/lib-react.5365cdb3.js",
+          "size": 140003
+        },
+        {
+          "name": "static/js/lib-polyfill.1d8bac37.js",
+          "size": 152387
+        },
+        {
+          "name": "static/js/lib-router.9b9481d7.js",
+          "size": 64435
+        },
+        {
+          "name": "static/js/859.044179cf.js",
+          "size": 274239
+        },
+        {
+          "name": "static/css/index.041aff4f.css",
+          "size": 73758
+        },
+        {
+          "name": "static/js/index.1ccf8665.js",
+          "size": 265739
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 970561,
+      "children": {},
+      "childAssets": {}
+    },
+    "page": {
+      "name": "page",
+      "chunks": [
+        "906",
+        "512",
+        "223",
+        "484"
+      ],
+      "assets": [
+        {
+          "name": "static/js/async/906.77938c09.js",
+          "size": 298856
+        },
+        {
+          "name": "static/js/async/512.e59e8ac6.js",
+          "size": 12603
+        },
+        {
+          "name": "static/js/async/223.175ea87b.js",
+          "size": 10422
+        },
+        {
+          "name": "static/js/async/page.cc26f7d0.js",
+          "size": 53797
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 375678,
+      "children": {},
+      "childAssets": {}
+    },
+    "privacy/page": {
+      "name": "privacy/page",
+      "chunks": [
+        "297",
+        "830"
+      ],
+      "assets": [
+        {
+          "name": "static/js/async/297.6d6a27aa.js",
+          "size": 9158
+        },
+        {
+          "name": "static/js/async/privacy/page.bbe05bf1.js",
+          "size": 5582
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 14740,
+      "children": {},
+      "childAssets": {}
+    },
+    "products/(slug)/page": {
+      "name": "products/(slug)/page",
+      "chunks": [
+        "512",
+        "581"
+      ],
+      "assets": [
+        {
+          "name": "static/js/async/512.e59e8ac6.js",
+          "size": 12603
+        },
+        {
+          "name": "static/js/async/products/(slug)/page.eb225e1f.js",
+          "size": 22182
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 34785,
+      "children": {},
+      "childAssets": {}
+    },
+    "products/page": {
+      "name": "products/page",
+      "chunks": [
+        "223",
+        "127"
+      ],
+      "assets": [
+        {
+          "name": "static/js/async/223.175ea87b.js",
+          "size": 10422
+        },
+        {
+          "name": "static/js/async/products/page.8aa212b8.js",
+          "size": 6420
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 16842,
+      "children": {},
+      "childAssets": {}
+    },
+    "terms/page": {
+      "name": "terms/page",
+      "chunks": [
+        "297",
+        "543"
+      ],
+      "assets": [
+        {
+          "name": "static/js/async/297.6d6a27aa.js",
+          "size": 9158
+        },
+        {
+          "name": "static/js/async/terms/page.419f484c.js",
+          "size": 5644
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 14802,
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "generator": "loadable-components"
+}

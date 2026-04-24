@@ -1,0 +1,1660 @@
+{
+  "routes": [
+    {
+      "urlPath": "/",
+      "entryName": "index",
+      "entryPath": "index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/about",
+      "entryName": "index",
+      "entryPath": "about/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/blog",
+      "entryName": "index",
+      "entryPath": "blog/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/blog/building-for-airplane-mode",
+      "entryName": "index",
+      "entryPath": "blog/building-for-airplane-mode/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/blog/codeflux-design-notes",
+      "entryName": "index",
+      "entryPath": "blog/codeflux-design-notes/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/blog/flux-engine-design-notes",
+      "entryName": "index",
+      "entryPath": "blog/flux-engine-design-notes/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/blog/no-account-by-design",
+      "entryName": "index",
+      "entryPath": "blog/no-account-by-design/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/blog/noteflux-design-philosophy",
+      "entryName": "index",
+      "entryPath": "blog/noteflux-design-philosophy/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/blog/on-device-llm-quantization",
+      "entryName": "index",
+      "entryPath": "blog/on-device-llm-quantization/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/blog/private-by-architecture",
+      "entryName": "index",
+      "entryPath": "blog/private-by-architecture/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/blog/speaker-diarization-deep-dive",
+      "entryName": "index",
+      "entryPath": "blog/speaker-diarization-deep-dive/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/blog/translateflux-engineering",
+      "entryName": "index",
+      "entryPath": "blog/translateflux-engineering/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/blog/visionflux-roadmap",
+      "entryName": "index",
+      "entryPath": "blog/visionflux-roadmap/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/blog/whisperflux-preview",
+      "entryName": "index",
+      "entryPath": "blog/whisperflux-preview/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/blog/why-on-device-ai",
+      "entryName": "index",
+      "entryPath": "blog/why-on-device-ai/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/de",
+      "entryName": "index",
+      "entryPath": "de/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/de/about",
+      "entryName": "index",
+      "entryPath": "de/about/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/de/blog",
+      "entryName": "index",
+      "entryPath": "de/blog/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/de/blog/building-for-airplane-mode",
+      "entryName": "index",
+      "entryPath": "de/blog/building-for-airplane-mode/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/de/blog/codeflux-design-notes",
+      "entryName": "index",
+      "entryPath": "de/blog/codeflux-design-notes/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/de/blog/flux-engine-design-notes",
+      "entryName": "index",
+      "entryPath": "de/blog/flux-engine-design-notes/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/de/blog/no-account-by-design",
+      "entryName": "index",
+      "entryPath": "de/blog/no-account-by-design/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/de/blog/noteflux-design-philosophy",
+      "entryName": "index",
+      "entryPath": "de/blog/noteflux-design-philosophy/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/de/blog/on-device-llm-quantization",
+      "entryName": "index",
+      "entryPath": "de/blog/on-device-llm-quantization/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/de/blog/private-by-architecture",
+      "entryName": "index",
+      "entryPath": "de/blog/private-by-architecture/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/de/blog/speaker-diarization-deep-dive",
+      "entryName": "index",
+      "entryPath": "de/blog/speaker-diarization-deep-dive/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/de/blog/translateflux-engineering",
+      "entryName": "index",
+      "entryPath": "de/blog/translateflux-engineering/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/de/blog/visionflux-roadmap",
+      "entryName": "index",
+      "entryPath": "de/blog/visionflux-roadmap/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/de/blog/whisperflux-preview",
+      "entryName": "index",
+      "entryPath": "de/blog/whisperflux-preview/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/de/blog/why-on-device-ai",
+      "entryName": "index",
+      "entryPath": "de/blog/why-on-device-ai/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/de/privacy",
+      "entryName": "index",
+      "entryPath": "de/privacy/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/de/products",
+      "entryName": "index",
+      "entryPath": "de/products/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/de/products/codeflux",
+      "entryName": "index",
+      "entryPath": "de/products/codeflux/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/de/products/noteflux",
+      "entryName": "index",
+      "entryPath": "de/products/noteflux/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/de/products/translateflux",
+      "entryName": "index",
+      "entryPath": "de/products/translateflux/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/de/products/visionflux",
+      "entryName": "index",
+      "entryPath": "de/products/visionflux/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/de/products/whisperflux",
+      "entryName": "index",
+      "entryPath": "de/products/whisperflux/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/de/terms",
+      "entryName": "index",
+      "entryPath": "de/terms/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/es",
+      "entryName": "index",
+      "entryPath": "es/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/es/about",
+      "entryName": "index",
+      "entryPath": "es/about/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/es/blog",
+      "entryName": "index",
+      "entryPath": "es/blog/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/es/blog/building-for-airplane-mode",
+      "entryName": "index",
+      "entryPath": "es/blog/building-for-airplane-mode/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/es/blog/codeflux-design-notes",
+      "entryName": "index",
+      "entryPath": "es/blog/codeflux-design-notes/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/es/blog/flux-engine-design-notes",
+      "entryName": "index",
+      "entryPath": "es/blog/flux-engine-design-notes/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/es/blog/no-account-by-design",
+      "entryName": "index",
+      "entryPath": "es/blog/no-account-by-design/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/es/blog/noteflux-design-philosophy",
+      "entryName": "index",
+      "entryPath": "es/blog/noteflux-design-philosophy/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/es/blog/on-device-llm-quantization",
+      "entryName": "index",
+      "entryPath": "es/blog/on-device-llm-quantization/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/es/blog/private-by-architecture",
+      "entryName": "index",
+      "entryPath": "es/blog/private-by-architecture/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/es/blog/speaker-diarization-deep-dive",
+      "entryName": "index",
+      "entryPath": "es/blog/speaker-diarization-deep-dive/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/es/blog/translateflux-engineering",
+      "entryName": "index",
+      "entryPath": "es/blog/translateflux-engineering/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/es/blog/visionflux-roadmap",
+      "entryName": "index",
+      "entryPath": "es/blog/visionflux-roadmap/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/es/blog/whisperflux-preview",
+      "entryName": "index",
+      "entryPath": "es/blog/whisperflux-preview/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/es/blog/why-on-device-ai",
+      "entryName": "index",
+      "entryPath": "es/blog/why-on-device-ai/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/es/privacy",
+      "entryName": "index",
+      "entryPath": "es/privacy/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/es/products",
+      "entryName": "index",
+      "entryPath": "es/products/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/es/products/codeflux",
+      "entryName": "index",
+      "entryPath": "es/products/codeflux/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/es/products/noteflux",
+      "entryName": "index",
+      "entryPath": "es/products/noteflux/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/es/products/translateflux",
+      "entryName": "index",
+      "entryPath": "es/products/translateflux/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/es/products/visionflux",
+      "entryName": "index",
+      "entryPath": "es/products/visionflux/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/es/products/whisperflux",
+      "entryName": "index",
+      "entryPath": "es/products/whisperflux/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/es/terms",
+      "entryName": "index",
+      "entryPath": "es/terms/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/fr",
+      "entryName": "index",
+      "entryPath": "fr/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/fr/about",
+      "entryName": "index",
+      "entryPath": "fr/about/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/fr/blog",
+      "entryName": "index",
+      "entryPath": "fr/blog/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/fr/blog/building-for-airplane-mode",
+      "entryName": "index",
+      "entryPath": "fr/blog/building-for-airplane-mode/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/fr/blog/codeflux-design-notes",
+      "entryName": "index",
+      "entryPath": "fr/blog/codeflux-design-notes/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/fr/blog/flux-engine-design-notes",
+      "entryName": "index",
+      "entryPath": "fr/blog/flux-engine-design-notes/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/fr/blog/no-account-by-design",
+      "entryName": "index",
+      "entryPath": "fr/blog/no-account-by-design/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/fr/blog/noteflux-design-philosophy",
+      "entryName": "index",
+      "entryPath": "fr/blog/noteflux-design-philosophy/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/fr/blog/on-device-llm-quantization",
+      "entryName": "index",
+      "entryPath": "fr/blog/on-device-llm-quantization/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/fr/blog/private-by-architecture",
+      "entryName": "index",
+      "entryPath": "fr/blog/private-by-architecture/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/fr/blog/speaker-diarization-deep-dive",
+      "entryName": "index",
+      "entryPath": "fr/blog/speaker-diarization-deep-dive/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/fr/blog/translateflux-engineering",
+      "entryName": "index",
+      "entryPath": "fr/blog/translateflux-engineering/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/fr/blog/visionflux-roadmap",
+      "entryName": "index",
+      "entryPath": "fr/blog/visionflux-roadmap/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/fr/blog/whisperflux-preview",
+      "entryName": "index",
+      "entryPath": "fr/blog/whisperflux-preview/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/fr/blog/why-on-device-ai",
+      "entryName": "index",
+      "entryPath": "fr/blog/why-on-device-ai/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/fr/privacy",
+      "entryName": "index",
+      "entryPath": "fr/privacy/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/fr/products",
+      "entryName": "index",
+      "entryPath": "fr/products/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/fr/products/codeflux",
+      "entryName": "index",
+      "entryPath": "fr/products/codeflux/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/fr/products/noteflux",
+      "entryName": "index",
+      "entryPath": "fr/products/noteflux/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/fr/products/translateflux",
+      "entryName": "index",
+      "entryPath": "fr/products/translateflux/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/fr/products/visionflux",
+      "entryName": "index",
+      "entryPath": "fr/products/visionflux/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/fr/products/whisperflux",
+      "entryName": "index",
+      "entryPath": "fr/products/whisperflux/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/fr/terms",
+      "entryName": "index",
+      "entryPath": "fr/terms/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/ja",
+      "entryName": "index",
+      "entryPath": "ja/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/ja/about",
+      "entryName": "index",
+      "entryPath": "ja/about/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/ja/blog",
+      "entryName": "index",
+      "entryPath": "ja/blog/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/ja/blog/building-for-airplane-mode",
+      "entryName": "index",
+      "entryPath": "ja/blog/building-for-airplane-mode/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/ja/blog/codeflux-design-notes",
+      "entryName": "index",
+      "entryPath": "ja/blog/codeflux-design-notes/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/ja/blog/flux-engine-design-notes",
+      "entryName": "index",
+      "entryPath": "ja/blog/flux-engine-design-notes/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/ja/blog/no-account-by-design",
+      "entryName": "index",
+      "entryPath": "ja/blog/no-account-by-design/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/ja/blog/noteflux-design-philosophy",
+      "entryName": "index",
+      "entryPath": "ja/blog/noteflux-design-philosophy/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/ja/blog/on-device-llm-quantization",
+      "entryName": "index",
+      "entryPath": "ja/blog/on-device-llm-quantization/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/ja/blog/private-by-architecture",
+      "entryName": "index",
+      "entryPath": "ja/blog/private-by-architecture/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/ja/blog/speaker-diarization-deep-dive",
+      "entryName": "index",
+      "entryPath": "ja/blog/speaker-diarization-deep-dive/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/ja/blog/translateflux-engineering",
+      "entryName": "index",
+      "entryPath": "ja/blog/translateflux-engineering/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/ja/blog/visionflux-roadmap",
+      "entryName": "index",
+      "entryPath": "ja/blog/visionflux-roadmap/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/ja/blog/whisperflux-preview",
+      "entryName": "index",
+      "entryPath": "ja/blog/whisperflux-preview/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/ja/blog/why-on-device-ai",
+      "entryName": "index",
+      "entryPath": "ja/blog/why-on-device-ai/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/ja/privacy",
+      "entryName": "index",
+      "entryPath": "ja/privacy/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/ja/products",
+      "entryName": "index",
+      "entryPath": "ja/products/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/ja/products/codeflux",
+      "entryName": "index",
+      "entryPath": "ja/products/codeflux/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/ja/products/noteflux",
+      "entryName": "index",
+      "entryPath": "ja/products/noteflux/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/ja/products/translateflux",
+      "entryName": "index",
+      "entryPath": "ja/products/translateflux/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/ja/products/visionflux",
+      "entryName": "index",
+      "entryPath": "ja/products/visionflux/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/ja/products/whisperflux",
+      "entryName": "index",
+      "entryPath": "ja/products/whisperflux/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/ja/terms",
+      "entryName": "index",
+      "entryPath": "ja/terms/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/ko",
+      "entryName": "index",
+      "entryPath": "ko/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/ko/about",
+      "entryName": "index",
+      "entryPath": "ko/about/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/ko/blog",
+      "entryName": "index",
+      "entryPath": "ko/blog/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/ko/blog/building-for-airplane-mode",
+      "entryName": "index",
+      "entryPath": "ko/blog/building-for-airplane-mode/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/ko/blog/codeflux-design-notes",
+      "entryName": "index",
+      "entryPath": "ko/blog/codeflux-design-notes/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/ko/blog/flux-engine-design-notes",
+      "entryName": "index",
+      "entryPath": "ko/blog/flux-engine-design-notes/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/ko/blog/no-account-by-design",
+      "entryName": "index",
+      "entryPath": "ko/blog/no-account-by-design/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/ko/blog/noteflux-design-philosophy",
+      "entryName": "index",
+      "entryPath": "ko/blog/noteflux-design-philosophy/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/ko/blog/on-device-llm-quantization",
+      "entryName": "index",
+      "entryPath": "ko/blog/on-device-llm-quantization/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/ko/blog/private-by-architecture",
+      "entryName": "index",
+      "entryPath": "ko/blog/private-by-architecture/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/ko/blog/speaker-diarization-deep-dive",
+      "entryName": "index",
+      "entryPath": "ko/blog/speaker-diarization-deep-dive/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/ko/blog/translateflux-engineering",
+      "entryName": "index",
+      "entryPath": "ko/blog/translateflux-engineering/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/ko/blog/visionflux-roadmap",
+      "entryName": "index",
+      "entryPath": "ko/blog/visionflux-roadmap/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/ko/blog/whisperflux-preview",
+      "entryName": "index",
+      "entryPath": "ko/blog/whisperflux-preview/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/ko/blog/why-on-device-ai",
+      "entryName": "index",
+      "entryPath": "ko/blog/why-on-device-ai/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/ko/privacy",
+      "entryName": "index",
+      "entryPath": "ko/privacy/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/ko/products",
+      "entryName": "index",
+      "entryPath": "ko/products/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/ko/products/codeflux",
+      "entryName": "index",
+      "entryPath": "ko/products/codeflux/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/ko/products/noteflux",
+      "entryName": "index",
+      "entryPath": "ko/products/noteflux/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/ko/products/translateflux",
+      "entryName": "index",
+      "entryPath": "ko/products/translateflux/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/ko/products/visionflux",
+      "entryName": "index",
+      "entryPath": "ko/products/visionflux/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/ko/products/whisperflux",
+      "entryName": "index",
+      "entryPath": "ko/products/whisperflux/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/ko/terms",
+      "entryName": "index",
+      "entryPath": "ko/terms/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/privacy",
+      "entryName": "index",
+      "entryPath": "privacy/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/products",
+      "entryName": "index",
+      "entryPath": "products/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/products/codeflux",
+      "entryName": "index",
+      "entryPath": "products/codeflux/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/products/noteflux",
+      "entryName": "index",
+      "entryPath": "products/noteflux/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/products/translateflux",
+      "entryName": "index",
+      "entryPath": "products/translateflux/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/products/visionflux",
+      "entryName": "index",
+      "entryPath": "products/visionflux/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/products/whisperflux",
+      "entryName": "index",
+      "entryPath": "products/whisperflux/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/pt-BR",
+      "entryName": "index",
+      "entryPath": "pt-BR/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/pt-BR/about",
+      "entryName": "index",
+      "entryPath": "pt-BR/about/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/pt-BR/blog",
+      "entryName": "index",
+      "entryPath": "pt-BR/blog/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/pt-BR/blog/building-for-airplane-mode",
+      "entryName": "index",
+      "entryPath": "pt-BR/blog/building-for-airplane-mode/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/pt-BR/blog/codeflux-design-notes",
+      "entryName": "index",
+      "entryPath": "pt-BR/blog/codeflux-design-notes/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/pt-BR/blog/flux-engine-design-notes",
+      "entryName": "index",
+      "entryPath": "pt-BR/blog/flux-engine-design-notes/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/pt-BR/blog/no-account-by-design",
+      "entryName": "index",
+      "entryPath": "pt-BR/blog/no-account-by-design/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/pt-BR/blog/noteflux-design-philosophy",
+      "entryName": "index",
+      "entryPath": "pt-BR/blog/noteflux-design-philosophy/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/pt-BR/blog/on-device-llm-quantization",
+      "entryName": "index",
+      "entryPath": "pt-BR/blog/on-device-llm-quantization/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/pt-BR/blog/private-by-architecture",
+      "entryName": "index",
+      "entryPath": "pt-BR/blog/private-by-architecture/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/pt-BR/blog/speaker-diarization-deep-dive",
+      "entryName": "index",
+      "entryPath": "pt-BR/blog/speaker-diarization-deep-dive/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/pt-BR/blog/translateflux-engineering",
+      "entryName": "index",
+      "entryPath": "pt-BR/blog/translateflux-engineering/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/pt-BR/blog/visionflux-roadmap",
+      "entryName": "index",
+      "entryPath": "pt-BR/blog/visionflux-roadmap/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/pt-BR/blog/whisperflux-preview",
+      "entryName": "index",
+      "entryPath": "pt-BR/blog/whisperflux-preview/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/pt-BR/blog/why-on-device-ai",
+      "entryName": "index",
+      "entryPath": "pt-BR/blog/why-on-device-ai/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/pt-BR/privacy",
+      "entryName": "index",
+      "entryPath": "pt-BR/privacy/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/pt-BR/products",
+      "entryName": "index",
+      "entryPath": "pt-BR/products/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/pt-BR/products/codeflux",
+      "entryName": "index",
+      "entryPath": "pt-BR/products/codeflux/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/pt-BR/products/noteflux",
+      "entryName": "index",
+      "entryPath": "pt-BR/products/noteflux/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/pt-BR/products/translateflux",
+      "entryName": "index",
+      "entryPath": "pt-BR/products/translateflux/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/pt-BR/products/visionflux",
+      "entryName": "index",
+      "entryPath": "pt-BR/products/visionflux/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/pt-BR/products/whisperflux",
+      "entryName": "index",
+      "entryPath": "pt-BR/products/whisperflux/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/pt-BR/terms",
+      "entryName": "index",
+      "entryPath": "pt-BR/terms/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/terms",
+      "entryName": "index",
+      "entryPath": "terms/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/zh",
+      "entryName": "index",
+      "entryPath": "zh/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/zh/about",
+      "entryName": "index",
+      "entryPath": "zh/about/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/zh/blog",
+      "entryName": "index",
+      "entryPath": "zh/blog/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/zh/blog/building-for-airplane-mode",
+      "entryName": "index",
+      "entryPath": "zh/blog/building-for-airplane-mode/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/zh/blog/codeflux-design-notes",
+      "entryName": "index",
+      "entryPath": "zh/blog/codeflux-design-notes/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/zh/blog/flux-engine-design-notes",
+      "entryName": "index",
+      "entryPath": "zh/blog/flux-engine-design-notes/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/zh/blog/no-account-by-design",
+      "entryName": "index",
+      "entryPath": "zh/blog/no-account-by-design/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/zh/blog/noteflux-design-philosophy",
+      "entryName": "index",
+      "entryPath": "zh/blog/noteflux-design-philosophy/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/zh/blog/on-device-llm-quantization",
+      "entryName": "index",
+      "entryPath": "zh/blog/on-device-llm-quantization/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/zh/blog/private-by-architecture",
+      "entryName": "index",
+      "entryPath": "zh/blog/private-by-architecture/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/zh/blog/speaker-diarization-deep-dive",
+      "entryName": "index",
+      "entryPath": "zh/blog/speaker-diarization-deep-dive/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/zh/blog/translateflux-engineering",
+      "entryName": "index",
+      "entryPath": "zh/blog/translateflux-engineering/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/zh/blog/visionflux-roadmap",
+      "entryName": "index",
+      "entryPath": "zh/blog/visionflux-roadmap/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/zh/blog/whisperflux-preview",
+      "entryName": "index",
+      "entryPath": "zh/blog/whisperflux-preview/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/zh/blog/why-on-device-ai",
+      "entryName": "index",
+      "entryPath": "zh/blog/why-on-device-ai/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/zh/privacy",
+      "entryName": "index",
+      "entryPath": "zh/privacy/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/zh/products",
+      "entryName": "index",
+      "entryPath": "zh/products/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/zh/products/codeflux",
+      "entryName": "index",
+      "entryPath": "zh/products/codeflux/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/zh/products/noteflux",
+      "entryName": "index",
+      "entryPath": "zh/products/noteflux/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/zh/products/translateflux",
+      "entryName": "index",
+      "entryPath": "zh/products/translateflux/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/zh/products/visionflux",
+      "entryName": "index",
+      "entryPath": "zh/products/visionflux/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/zh/products/whisperflux",
+      "entryName": "index",
+      "entryPath": "zh/products/whisperflux/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    },
+    {
+      "urlPath": "/zh/terms",
+      "entryName": "index",
+      "entryPath": "zh/terms/index.html",
+      "isSPA": true,
+      "isStream": false,
+      "isSSR": false,
+      "isRSC": false
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "routeAssets": {
+    "$": {
+      "chunkIds": [
+        "392"
+      ],
+      "assets": [
+        "/static/js/async/$.51d7c518.js"
+      ],
+      "referenceCssAssets": []
+    },
+    "(lang$)/about/page": {
+      "chunkIds": [
+        "512",
+        "808",
+        "37"
+      ],
+      "assets": [
+        "/static/js/async/512.e59e8ac6.js",
+        "/static/js/async/about/page.2e4eed06.js",
+        "/static/js/async/(lang$)/about/page.1c66b9cf.js"
+      ],
+      "referenceCssAssets": []
+    },
+    "(lang$)/blog/(slug)/page": {
+      "chunkIds": [
+        "906",
+        "591"
+      ],
+      "assets": [
+        "/static/js/async/906.77938c09.js",
+        "/static/js/async/(lang$)/blog/(slug)/page.2dca9c35.js"
+      ],
+      "referenceCssAssets": []
+    },
+    "(lang$)/blog/page": {
+      "chunkIds": [
+        "906",
+        "518"
+      ],
+      "assets": [
+        "/static/js/async/906.77938c09.js",
+        "/static/js/async/(lang$)/blog/page.9bf0ecd4.js"
+      ],
+      "referenceCssAssets": []
+    },
+    "(lang$)/page": {
+      "chunkIds": [
+        "906",
+        "512",
+        "223",
+        "484",
+        "79"
+      ],
+      "assets": [
+        "/static/js/async/906.77938c09.js",
+        "/static/js/async/512.e59e8ac6.js",
+        "/static/js/async/223.175ea87b.js",
+        "/static/js/async/page.cc26f7d0.js",
+        "/static/js/async/(lang$)/page.80b5371e.js"
+      ],
+      "referenceCssAssets": []
+    },
+    "(lang$)/privacy/page": {
+      "chunkIds": [
+        "297",
+        "269"
+      ],
+      "assets": [
+        "/static/js/async/297.6d6a27aa.js",
+        "/static/js/async/(lang$)/privacy/page.a2eae9e2.js"
+      ],
+      "referenceCssAssets": []
+    },
+    "(lang$)/products/(slug)/page": {
+      "chunkIds": [
+        "512",
+        "581",
+        "253"
+      ],
+      "assets": [
+        "/static/js/async/512.e59e8ac6.js",
+        "/static/js/async/products/(slug)/page.eb225e1f.js",
+        "/static/js/async/(lang$)/products/(slug)/page.6fd3ef0d.js"
+      ],
+      "referenceCssAssets": []
+    },
+    "(lang$)/products/page": {
+      "chunkIds": [
+        "223",
+        "729"
+      ],
+      "assets": [
+        "/static/js/async/223.175ea87b.js",
+        "/static/js/async/(lang$)/products/page.7edb5209.js"
+      ],
+      "referenceCssAssets": []
+    },
+    "(lang$)/terms/page": {
+      "chunkIds": [
+        "297",
+        "192"
+      ],
+      "assets": [
+        "/static/js/async/297.6d6a27aa.js",
+        "/static/js/async/(lang$)/terms/page.cf8b53f1.js"
+      ],
+      "referenceCssAssets": []
+    },
+    "about/page": {
+      "chunkIds": [
+        "512",
+        "808"
+      ],
+      "assets": [
+        "/static/js/async/512.e59e8ac6.js",
+        "/static/js/async/about/page.2e4eed06.js"
+      ],
+      "referenceCssAssets": []
+    },
+    "blog/(slug)/page": {
+      "chunkIds": [
+        "906",
+        "368"
+      ],
+      "assets": [
+        "/static/js/async/906.77938c09.js",
+        "/static/js/async/blog/(slug)/page.d929d8a9.js"
+      ],
+      "referenceCssAssets": []
+    },
+    "blog/page": {
+      "chunkIds": [
+        "906",
+        "509"
+      ],
+      "assets": [
+        "/static/js/async/906.77938c09.js",
+        "/static/js/async/blog/page.c82e2a1a.js"
+      ],
+      "referenceCssAssets": []
+    },
+    "index": {
+      "chunkIds": [
+        "242",
+        "361",
+        "126",
+        "118",
+        "859",
+        "980"
+      ],
+      "assets": [
+        "/static/js/builder-runtime.8a751114.js",
+        "/static/js/lib-react.5365cdb3.js",
+        "/static/js/lib-polyfill.1d8bac37.js",
+        "/static/js/lib-router.9b9481d7.js",
+        "/static/js/859.044179cf.js",
+        "/static/css/index.041aff4f.css",
+        "/static/js/index.1ccf8665.js"
+      ],
+      "referenceCssAssets": [
+        "/static/css/index.041aff4f.css"
+      ]
+    },
+    "page": {
+      "chunkIds": [
+        "906",
+        "512",
+        "223",
+        "484"
+      ],
+      "assets": [
+        "/static/js/async/906.77938c09.js",
+        "/static/js/async/512.e59e8ac6.js",
+        "/static/js/async/223.175ea87b.js",
+        "/static/js/async/page.cc26f7d0.js"
+      ],
+      "referenceCssAssets": []
+    },
+    "privacy/page": {
+      "chunkIds": [
+        "297",
+        "830"
+      ],
+      "assets": [
+        "/static/js/async/297.6d6a27aa.js",
+        "/static/js/async/privacy/page.bbe05bf1.js"
+      ],
+      "referenceCssAssets": []
+    },
+    "products/(slug)/page": {
+      "chunkIds": [
+        "512",
+        "581"
+      ],
+      "assets": [
+        "/static/js/async/512.e59e8ac6.js",
+        "/static/js/async/products/(slug)/page.eb225e1f.js"
+      ],
+      "referenceCssAssets": []
+    },
+    "products/page": {
+      "chunkIds": [
+        "223",
+        "127"
+      ],
+      "assets": [
+        "/static/js/async/223.175ea87b.js",
+        "/static/js/async/products/page.8aa212b8.js"
+      ],
+      "referenceCssAssets": []
+    },
+    "terms/page": {
+      "chunkIds": [
+        "297",
+        "543"
+      ],
+      "assets": [
+        "/static/js/async/297.6d6a27aa.js",
+        "/static/js/async/terms/page.419f484c.js"
+      ],
+      "referenceCssAssets": []
+    }
+  }
+}
